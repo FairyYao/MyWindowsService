@@ -1,6 +1,6 @@
 ﻿namespace MyWindowsService
 {
-    partial class Service1
+    partial class MyService
     {
         /// <summary> 
         /// 必需的设计器变量。
@@ -33,5 +33,7 @@
         }
 
         #endregion
+
+        
     }
 }
